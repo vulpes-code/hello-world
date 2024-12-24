@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Automatically Updated</h1>
+   <h1>Automatically Updated - ganz neu!</h1>
 
   
 </form>
