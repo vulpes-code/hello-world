@@ -32,7 +32,7 @@
   </div>
 
    <h1>Automatically Updated - ganz neu!</h1>
-   <h2>Latest changes</h2>
+   <h2>Ez bini de fertig</h2>
 
   
 </form>
