@@ -32,7 +32,7 @@
   </div>
 
    <h1>Automatically Updated - ganz neu!</h1>
-   <h2>to docker 2</h2>
+   <h2>Latest changes</h2>
 
   
 </form>
